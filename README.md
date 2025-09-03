@@ -47,7 +47,7 @@ Enables rapid comparisons between 2024 and 2023, makes regional slowdowns or acc
 
 **Screenshots / Demos**  
 
-![Dashboard preview](https://github.com/tansam779-oss/apple-financial/blob/main/screenshot%20BI.png)  
+![Dashboard preview](https://github.com/tansam779-oss/Apple-Regional-Sales-Analysis/blob/main/Apple%20Sales%20Analysis.png)  
 
 **Problem Statements**  
 - What are total sales by region in 2023 and 2024, and how do they compare year over year?  
