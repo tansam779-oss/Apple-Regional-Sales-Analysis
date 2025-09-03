@@ -46,7 +46,8 @@ Apple operates across multiple regions and product categories, making it essenti
 Enables rapid comparisons between 2024 and 2023, makes regional slowdowns or accelerations immediately visible, clarifies which product categories lead or lag, and supports planning conversations by exposing seasonal patterns via quarter-level slicing.  
 
 **Screenshots / Demos**  
-The dashboard screenshot illustrates the regional and product views with the Year and Quarter slicers applied.  
+
+![Dashboard preview](https://github.com/tansam779-oss/apple-financial/blob/main/screenshot%20BI.png)  
 
 **Problem Statements**  
 - What are total sales by region in 2023 and 2024, and how do they compare year over year?  
